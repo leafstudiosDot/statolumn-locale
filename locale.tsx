@@ -1,4 +1,4 @@
-import 'server-only'
+"use server"
  
 const locales = {
   en: () => import('./locale/en.json').then((module) => module.default),
