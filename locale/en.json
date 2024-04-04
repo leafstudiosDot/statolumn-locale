@@ -1,5 +1,14 @@
 {
     "app": "Statolumn",
+    "contributors": [
+        {
+            "Name": "aliamanuba",
+            "GitHub": "TuxPenguin09",
+            "Twitter": "hodotsofficial",
+            "Website": "https://hodots.com",
+            "Role": "Statolumn Developer"
+        }
+    ],
     "Language": {
         "Language": "Language",
         "Name": "English"
