@@ -11,7 +11,26 @@
     ],
     "Language": {
         "Language": "Language",
-        "Name": "English"
+        "Name": "English",
+        "OtherLangName": [
+            {
+                "LanguageCode": "jp",
+                "Name": "Japanese"
+            },
+            {
+                "LanguageCode": "es",
+                "Name": "Spanish"
+            },
+            {
+                "LanguageCode": "kr",
+                "Name": "Korean"
+            }
+        ],
+        "ChangeLanguage": {
+            "ChangePrompt": ["Are you sure you wish to change the language to ", "?"],
+            "Change": "Change",
+            "Cancel": "Cancel"
+        }
     },
     "Settings": {
         "Settings": "Settings"
@@ -27,5 +46,9 @@
         "Feedback": "Feedback",
         "InviteCodes": "Invite Codes",
         "Logout": "Logout"
+    },
+    "Compose": {
+        "Replying": "Write a reply",
+        "Update": "Update"  
     }
 }
