@@ -50,5 +50,25 @@
     "Compose": {
         "Replying": "Write a reply",
         "Update": "Update"  
+    },
+    "AccountStanding": {
+        "StandingDetails": {
+            "AccountRecord": {
+                "AccountRecord": "Account Record",
+                "AccountRecordDetails": ["Your account is in good standing! Perfect!", "This account has been flagged for suspicious activity", "This account has been suspended"]
+            },
+            "UpdateStatus": {
+                "UpdateStatus": "Update Status",
+                "UpdateStatusDetails": ["Update status anytime, as long as it abide by the Statolumn Guidelines", "You can update status anytime, restrictions applied", "You won't be able to update status anymore"]
+            },
+            "UploadMedia": {
+                "UploadMedia": "Upload Media",
+                "UploadMediaDetails": ["Upload any images and video as you like, as long as it abide by the Statolumn Guidelines", "Upload any images and video, restrictions applied", "You won't be able to upload an image or video anymore"]
+            },
+            "TakedownComplaints": {
+                "TakedownComplaints": "Takedown Request Complaints Received",
+                "TakedownComplaintsDetails": ["No complaints! Nice", "Statolumn have received a takedown request against your status/media", "Statolumn have received a takedown request against your status/media relating to Privacy Policy violations"]
+            }
+        }
     }
 }
