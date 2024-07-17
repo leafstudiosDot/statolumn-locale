@@ -1,0 +1,85 @@
+{
+    "app": "Statolumn",
+    "contributors": [
+        {
+            "Name": "aliamanuba",
+            "GitHub": "TuxPenguin09",
+            "Twitter": "hodotsofficial",
+            "Website": "https://hodots.com",
+            "Role": "Statolumn Developer"
+        }
+    ],
+    "Language": {
+        "Language": "言語",
+        "Name": "日本語",
+        "OtherLangName": [
+            {
+                "LanguageCode": "en",
+                "Name": "English"
+            }
+        ],
+        "ChangeLanguage": {
+            "ChangePrompt": [
+                "言語を ",
+                " に変更してもよろしいですか?"
+            ],
+            "Change": "変化",
+            "Cancel": "キャンセル"
+        }
+    },
+    "Settings": {
+        "Settings": "設定"
+    },
+    "InviteCode": "招待コード",
+    "Bookmarks": "栞",
+    "Header_Guest": {
+        "Join": "Statolumnに参加",
+        "Login": "ログイン"
+    },
+    "Header_User": {
+        "ViewProfile": "プロフィール",
+        "Feedback": "フィードバック",
+        "InviteCodes": "招待コード",
+        "Logout": "ログアウト"
+    },
+    "Compose": {
+        "Replying": "返事を書く",
+        "Update": "アップデート"
+    },
+    "AccountStanding": {
+        "StandingDetails": {
+            "AccountRecord": {
+                "AccountRecord": "Account Record",
+                "AccountRecordDetails": [
+                    "Your account is in good standing! Perfect!",
+                    "This account has been flagged for suspicious activity",
+                    "This account has been suspended"
+                ]
+            },
+            "UpdateStatus": {
+                "UpdateStatus": "Update Status",
+                "UpdateStatusDetails": [
+                    "Update status anytime, as long as it abide by the Statolumn Guidelines",
+                    "You can update status anytime, restrictions applied",
+                    "You won't be able to update status anymore"
+                ]
+            },
+            "UploadMedia": {
+                "UploadMedia": "Upload Media",
+                "UploadMediaDetails": [
+                    "Upload any images and video as you like, as long as it abide by the Statolumn Guidelines",
+                    "Upload any images and video, restrictions applied",
+                    "You won't be able to upload an image or video anymore"
+                ]
+            },
+            "TakedownComplaints": {
+                "TakedownComplaints": "Takedown Request Complaints Received",
+                "TakedownComplaintsDetails": [
+                    "No complaints! Nice",
+                    "Statolumn have received a takedown request against your status/media",
+                    "Statolumn have received a takedown request against your status/media relating to Privacy Policy violations"
+                ]
+            }
+        }
+    }
+}

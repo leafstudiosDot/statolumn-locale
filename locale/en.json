@@ -16,14 +16,6 @@
             {
                 "LanguageCode": "jp",
                 "Name": "Japanese"
-            },
-            {
-                "LanguageCode": "es",
-                "Name": "Spanish"
-            },
-            {
-                "LanguageCode": "kr",
-                "Name": "Korean"
             }
         ],
         "ChangeLanguage": {
@@ -39,7 +31,7 @@
     "Bookmarks": "Bookmarks",
     "Header_Guest": {
         "Join": "Join Statolumn",
-        "Logout": "Login"
+        "Login": "Login"
     },
     "Header_User": {
         "ViewProfile": "View Profile",
