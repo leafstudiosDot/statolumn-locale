@@ -16,7 +16,8 @@
         "OtherLangName": [
             {
                 "LanguageCode": "en",
-                "Name": "English"
+                "Name": "English",
+                "DisplayLangName": "英語"
             }
         ],
         "ChangeLanguage": {
