@@ -12,6 +12,7 @@
     "Language": {
         "Language": "Language",
         "Name": "English",
+        "Code": "en",
         "OtherLangName": [
             {
                 "LanguageCode": "jp",
