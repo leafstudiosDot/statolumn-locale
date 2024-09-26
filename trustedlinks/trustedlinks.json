@@ -83,6 +83,21 @@
         "https://nuxtjs.org",
         "https://www.nuxtjs.org",
         "https://gatsbyjs.org",
-        "https://www.gatsbyjs.org"
+        "https://www.gatsbyjs.org",
+        "https://chatgpt.com",
+        "https://bsky.app",
+        "https://codecademy.com",
+        "https://android.com",
+        "https://www.android.com",
+        "https://apple.com",
+        "https://www.apple.com",
+        "https://jetbrains.com",
+        "https://www.jetbrains.com",
+        "https://codepen.io",
+        "https://www.codepen.io",
+        "https://codesandbox.io",
+        "https://www.codesandbox.io",
+        "https://wikipedia.com",
+        "https://www.wikipedia.com",
     ]
 }
